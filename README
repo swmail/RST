@@ -1,3 +1,6 @@
 Russian Synodal Translation (1876) with Strong's Numbers, Headings and Scripture Cross-references
-
 Русский синодальный перевод (1876) Библии с номерами Стронга, оглавлением и параллельными местами
+----------------
+make mod - compile module (output in dir "rsto")
+RSTE_verse_checked.xml - release! It used for module compile.
+RSTE_verse_words.xml - from it with check_punkt.sh build RSTE_verse_checked.xml
